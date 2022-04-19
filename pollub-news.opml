@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Subscriptions</title>
+  </head>
+  <body>
+    <outline title="Politechnika Lubelska" text="Politechnika Lubelska">
+      <outline title="Politechnika Lubelska - główna" text="Politechnika Lubelska - główna" type="rss" xmlUrl="http://fetchrss.com/rss/625ef502bf6ffa7426726a92625ef4cc633d811caf01ed02.xml" htmlUrl="https://pollub.pl/rekrutacja/aktualnosci"/>
+      <outline title="Aktualności WEiI" text="Aktualności WEiI" type="rss" xmlUrl="http://fetchrss.com/rss/625ef502bf6ffa7426726a92625ef5873bcc71424f748632.xml" htmlUrl="https://weii.pollub.pl/aktualnosci"/>
+      <outline title="Samorząd Studencki Politechniki Lubelskiej on Facebook" text="Samorząd Studencki Politechniki Lubelskiej on Facebook" type="rss" xmlUrl="http://fetchrss.com/rss/625ef502bf6ffa7426726a92625ef635c77b383c947fcb43.xml" htmlUrl="https://www.facebook.com/SamorzadPL"/>
+      <outline title="Politechnika Lubelska on Facebook" text="Politechnika Lubelska on Facebook" type="rss" xmlUrl="http://fetchrss.com/rss/625ef502bf6ffa7426726a92625ef67c11b516734d6603c2.xml" htmlUrl="https://www.facebook.com/politechnikalubelska"/>
+    </outline>
+  </body>
+</opml>
