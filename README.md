@@ -10,9 +10,9 @@ LUT official websites does not support RSS, so I generated them, and also I adde
 
 ### Sources:
 
-- [Politechnika Lubelska on Facebook]([Facebook](https://www.facebook.com/politechnikalubelska/))
+- [Politechnika Lubelska on Facebook](https://www.facebook.com/politechnikalubelska/)
 
-- [Samorząd Studencki Politechniki Lubelskiej on Facebook]([Facebook](https://www.facebook.com/SamorzadPL/))
+- [Samorząd Studencki Politechniki Lubelskiej on Facebook](https://www.facebook.com/SamorzadPL/)
 
 - [Wydział Elektrotechniki i Informatyki official website](https://weii.pollub.pl/)
 
@@ -26,4 +26,4 @@ This OPML file should work with almost all RSS readers that support OPML importi
 
 - NextCloud News
 
-- [NewsFlash]([Flathub—An app store and build service for Linux](https://flathub.org/apps/details/com.gitlab.newsflash)) on Linux
+- [NewsFlash](https://flathub.org/apps/details/com.gitlab.newsflash) on Linux
