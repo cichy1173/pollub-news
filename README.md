@@ -18,6 +18,8 @@ LUT official websites does not support RSS, so I generated them, and also I adde
 
 - [Politechnika Lubelska official website](https://pollub.pl/)
 
+- [Samorząd Studencki Wydziału Elektrotechniki i Informatyki](https://www.facebook.com/SSWEiIPolitechnikiLubelskiej/)
+
 ![pollub-news in NewsFlash app](https://i.imgur.com/gyTs1bB.jpg)
 
 
