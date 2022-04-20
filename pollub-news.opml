@@ -9,6 +9,7 @@
       <outline title="Aktualności WEiI" text="Aktualności WEiI" type="rss" xmlUrl="http://fetchrss.com/rss/625ef502bf6ffa7426726a92625ef5873bcc71424f748632.xml" htmlUrl="https://weii.pollub.pl/aktualnosci"/>
       <outline title="Samorząd Studencki Politechniki Lubelskiej on Facebook" text="Samorząd Studencki Politechniki Lubelskiej on Facebook" type="rss" xmlUrl="http://fetchrss.com/rss/625ef502bf6ffa7426726a92625ef635c77b383c947fcb43.xml" htmlUrl="https://www.facebook.com/SamorzadPL"/>
       <outline title="Politechnika Lubelska on Facebook" text="Politechnika Lubelska on Facebook" type="rss" xmlUrl="http://fetchrss.com/rss/625ef502bf6ffa7426726a92625ef67c11b516734d6603c2.xml" htmlUrl="https://www.facebook.com/politechnikalubelska"/>
+      <outline title="Samorząd Studencki Wydziału Elektrotechniki i Informatyki on Facebook" text="Samorząd Studencki Wydziału Elektrotechniki i Informatyki on Facebook" type="rss" xmlUrl="http://fetchrss.com/rss/625ef502bf6ffa7426726a92625fd3c7af179c0a617759a2.xml" htmlUrl="https://www.facebook.com/SSWEiIPolitechnikiLubelskiej"/>
     </outline>
   </body>
 </opml>
